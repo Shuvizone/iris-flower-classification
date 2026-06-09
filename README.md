@@ -47,4 +47,4 @@ The model achieves approximately 95–100% accuracy depending on train-test spli
 
 Anukriti Rawat
 ## Output
-(output.png)
+row.png
